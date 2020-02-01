@@ -1,10 +1,9 @@
 
 <p align="center">
-  <h1 align="center">Green Ventures - Fundraising Platform</h1>
   <a href="httos://greenventures.nordicenergy.app/">
     <img height="200px" src="https://drive.google.com/open?id=1mMJpNANlomInjl1oqeygcr25-4i0oZks">
   </a>
-  <br>
+  <br>  <h1 align="center">Green Ventures - Fundraising Platform</h1>
 </p>
 <p align="center">
   <a href="https://nordicenergy.github.io/green_ventures/">Project Website</a> |
