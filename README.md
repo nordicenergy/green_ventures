@@ -4,7 +4,7 @@
  <img height="200px" src="https://drive.google.com/open?id=1mMJpNANlomInjl1oqeygcr25-4i0oZks">
 </a>
   <br> <h1 align="center">Green Ventures - Fundraising Platform</h1>
-  <br> <h4 align="center">Climate Change Solutions Provider & Most Outstanding In Green Investments By Nordic Energy.</h4>
+  <br> <h3 align="center">Climate Change Solutions Provider & Most Outstanding In Green Investments By Nordic Energy.</h3>
 <p align="center">
   <a href="https://nordicenergy.github.io/green_ventures/">Project Website</a> |
   <a href="https://nordicenergy.app/donate">Donate</a> |
@@ -26,7 +26,7 @@ Strategic partnership with Nordic Energy in public blockchain services.
 
 When you give to Our platform, you know your donation is making a difference. Whether you are supporting one of our Signature Programs or our carefully curated list of Gifts. 
 
-- Strategic partnership with Nordic Energy in public blockchain services:
+#### Strategic partnership with Nordic Energy in public blockchain services:
 
 Together we bring world leading expertise to help our customers to capture the benefits of both public and private blockchain´s.
 
