@@ -1,7 +1,7 @@
 
 <p align="center">
  <a href="httos://greenventures.nordicenergy.co/">
- <img height="200px" src="green_ventures/GreenVentures doc/images/">
+ <img height="200px" GreenVentures doc="images/GreenVentures-logo.png">
 </a>
   <br> <h1 align="center">Green Ventures - Fundraising Platform</h1>
   <br> <h3 align="center">Climate Change Solutions Provider & Most Outstanding In Green Investments By Nordic Energy.</h3>
@@ -12,7 +12,6 @@
   <a href="https://nordicenergy.io">Nordic Energy</a> |
   <a href="https://nordicenergy.app/buy">ICO</a>
 </p>
-
 
 
 #### About
