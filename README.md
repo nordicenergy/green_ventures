@@ -18,9 +18,6 @@
 
 The green investment scheme sets up the requirements for the trade in surplus assigned amount units on the international market.. Our Mission Is Our Goal Is To Build Smart Societies Where Digital, Automated Services Help To Build Trust Between Different Parties.
 
-Strategic partnership with Nordic Energy in public blockchain services. 
-
-
 #### Together we can make a difference
 
 When you give to Our platform, you know your donation is making a difference. Whether you are supporting one of our Signature Programs or our carefully curated list of Gifts. 
