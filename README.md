@@ -6,12 +6,13 @@
   <br>
 </p>
 <p align="center">
+  <h1 align="center">Green Ventures - Fundraising Platform</h1>
   <a href="https://nordicenergy.github.io/green_ventures/">Project Website</a> |
   <a href="https://nordicenergy.app/donate">Donate</a> |
   <a href="https://github.com/sponsors/rdymac">Sponsor</a> |
   <a href="https://nordicenergy.app/buy">Buy Tokens</a>
 </p>
-<h1 align="center">Green Ventures - Fundraising Platform</h1>
+
 
 
 #### Climate Change Solutions Provider & Most Outstanding In Green Investments By Nordic Energy.
