@@ -1,10 +1,11 @@
 
+
 <p align="center">
  <a href="https://greenventures.nordicenergy.co/">
- <img height="200px" GreenVentures doc="images/GreenVentures-logo.png">
+ <img height="200px" src="images/logo/greenventures-logo.png">
 </a>
-  <br> <h1 align="center">Green Ventures - Fundraising Platform</h1>
-  <br> <h3 align="center">Climate Change Solutions Provider & Most Outstanding In Green Investments By Nordic Energy.</h3>
+  <br> <h1 align="center">Fundraising Platform</h1>
+  <br> <h4 align="center">Climate Change Solutions Provider & Most Outstanding In Green Investments By Nordic Energy.</h4>
 <p align="center">
   <a href="https://nordicenergy.github.io/green_ventures/">Project Website</a> |
   <a href="https://nordicenergy.app/donate">Donate</a> |
