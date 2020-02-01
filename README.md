@@ -1,7 +1,7 @@
 
 <p align="center">
  <a href="https://greenventures.nordicenergy.co/">
- <img height="200px" images="logo.png">
+ <img height="200px" images="logo/greenventures-logo.png">
 </a>
   <br> <h1 align="center">Green Ventures - Fundraising Platform</h1>
   <br> <h4 align="center">Climate Change Solutions Provider & Most Outstanding In Green Investments By Nordic Energy.</h4>
