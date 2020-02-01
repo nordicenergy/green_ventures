@@ -1,6 +1,6 @@
 
 <p align="center">
- <a href="httos://greenventures.nordicenergy.co/">
+ <a href="https://greenventures.nordicenergy.co/">
  <img height="200px" GreenVentures doc="images/GreenVentures-logo.png">
 </a>
   <br> <h1 align="center">Green Ventures - Fundraising Platform</h1>
