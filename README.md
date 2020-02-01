@@ -26,7 +26,7 @@ Strategic partnership with Nordic Energy in public blockchain services.
 
 When you give to Our platform, you know your donation is making a difference. Whether you are supporting one of our Signature Programs or our carefully curated list of Gifts. 
 
-##### Strategic partnership with Nordic Energy in public blockchain services
+#### Strategic partnership with Nordic Energy in public blockchain services
 
 - Together we bring world leading expertise to help our customers to capture the benefits of both public and private blockchain´s.
 
