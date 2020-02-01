@@ -4,7 +4,7 @@
  <img height="200px" src="https://drive.google.com/open?id=1mMJpNANlomInjl1oqeygcr25-4i0oZks">
 </a>
   <br> <h1 align="center">Green Ventures - Fundraising Platform</h1>
-  <br> <h1 align="center">Climate Change Solutions Provider & Most Outstanding In Green Investments By Nordic Energy.</h1>
+  <br> <h5 align="center">Climate Change Solutions Provider & Most Outstanding In Green Investments By Nordic Energy.</h5>
 </p>
 <p align="center">
   <a href="https://nordicenergy.github.io/green_ventures/">Project Website</a> |
@@ -36,3 +36,4 @@ When you give to Our platform, you know your donation is making a difference. Wh
 
 
 **Notice** The site and platform solution are under development.
+
