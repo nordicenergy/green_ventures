@@ -61,3 +61,16 @@ Medium: https://medium.com/@nordicenergy/green-ventures-fundraising-platform-4df
 
 **Notice** The site and platform solution are under development.
 
+
+DONATION
+
+If you like this project, feel free to donate:
+
+* Bitcoin: 14GyqCEZXyeythb6B6Vu5DiBCMszFrBsp1
+* Litecoin: LSi7smGjLwAmihFLEtV7Lit9Mmbsds9Tin
+* Ripple: rE5DbPTbtYT6tKqfXMD8352tTpdNvFydxb
+* Tron: TFSx6BBFNdxXoJJrTEWGEekTmb1AwNEEca
+* Ethereum: 0x0A6f46F29e047EdcFdf7BF67fD1DcC418100beea
+* DAI: 0x3FcDF18672dF7079E3146C87502003fb7dB4fa38
+* Paypal: paypal.me/nordicenergy
+
