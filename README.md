@@ -30,6 +30,9 @@ When you give to Our platform, you know your donation is making a difference. Wh
 
 When you give to Our platform, you know your donation is making a difference. Whether you are supporting one of our Signature Programs or our carefully curated list of Gifts.
 
+#### Whitepaper
+
+https://greenventures.app/docs/whitepaper
 
 **Notice** The site and platform solution are under development.
 
