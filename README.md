@@ -7,17 +7,20 @@
   <br> <h4 align="center">Climate Change Solutions Provider & Most Outstanding In Green Investments By Nordic Energy.</h4>
 <p align="center">
  <a href="https://greenventures.app/">Official Website</a> |
-  <a href="https://nordicenergy.github.io/green_ventures/">Project GiHhub Website</a> |
   <a href="https://nordicenergy.app/donate">Donate</a> |
   <a href="https://github.com/sponsors/rdymac">Sponsor</a> |
   <a href="https://nordicenergy.io">Nordic Energy</a> |
   <a href="https://nordicenergy.app/buy">ICO</a>
 </p>
 
+#### GreenVentures — Governance for the Environment and Society
+
+On transformation processes arising in connection with environmental challenges and associated societal changes, in particular in relation to air quality, energy waste, climate change, mobility, oceans and the Arctic Region.
+
 
 #### About
 
-The green investment scheme sets up the requirements for the trade in surplus assigned amount units on the international market.. Our Mission Is Our Goal Is To Build Smart Societies Where Digital, Automated Services Help To Build Trust Between Different Parties.
+The green investment scheme sets up the requirements for the trade in surplus assigned amount units on the international market Our Mission is Our goal is to build smart societies where digital, automated services help to build trust between different parties. The green investment scheme sets up the requirements for the trade in surplus assigned amount units on the international market. Everyone knows, that this is one of the most awful things you can do to our life and nature. But humanity needs clean water, air, electricity, woods and shelters. A cycle of escalation. As humanity grows, energy consumption does too. Nordic Energy & Co. realizes this issue and wants to resolve it!
 
 #### Together we can make a difference
 
