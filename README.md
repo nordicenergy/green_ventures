@@ -62,9 +62,9 @@ Medium: https://medium.com/@nordicenergy/green-ventures-fundraising-platform-4df
 **Notice** The site and platform solution are under development.
 
 
-DONATION
+#### Donation
 
-If you like this project, feel free to donate:
+###### If you like this project, feel free to donate:
 
 * Bitcoin: 14GyqCEZXyeythb6B6Vu5DiBCMszFrBsp1
 * Litecoin: LSi7smGjLwAmihFLEtV7Lit9Mmbsds9Tin
