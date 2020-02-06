@@ -12,8 +12,8 @@
   <a href="https://nordicenergy.io">Nordic Energy</a> |
   <a href="https://nordicenergy.app/buy">ICO</a>
 </p>
-</p>
 
+#
 
 #### Governance for the Environment and Society
 
