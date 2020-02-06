@@ -6,7 +6,8 @@
   <br> <h1 align="center">Fundraising Platform</h1>
   <br> <h4 align="center">Climate Change Solutions Provider & Most Outstanding In Green Investments By Nordic Energy.</h4>
 <p align="center">
-  <a href="https://nordicenergy.github.io/green_ventures/">Project Website</a> |
+ <a href="https://greenventures.app/">Official Website</a> |
+  <a href="https://nordicenergy.github.io/green_ventures/">Project GiHhub Website</a> |
   <a href="https://nordicenergy.app/donate">Donate</a> |
   <a href="https://github.com/sponsors/rdymac">Sponsor</a> |
   <a href="https://nordicenergy.io">Nordic Energy</a> |
