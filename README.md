@@ -3,7 +3,7 @@
  <a href="https://greenventures.nordicenergy.co/">
  <img height="200px" src="images/logo/greenventures-logo.png">
 </a>
-  <br> <h1 align="center">FUNDRAISING</h1>
+  <br> <h1 align="center">FUNDRAISING PLATFORM - THE NEW ERA OF TRANSPARENT GIVING</h1>
   <br> <h4 align="center">Climate Change Solutions Provider & Most Outstanding In Green Investments By Nordic Energy.</h4>
 <p align="center">
  <a href="https://greenventures.app/">Official Website</a> |
@@ -14,17 +14,14 @@
 </p>
 
 
-### GREEN VENTURES - THE NEW ERA OF TRANSPARENT GIVING
-
-
-#### Governance for the Environment and Society
+### Governance for the Environment and Society
 
 On transformation processes arising in connection with environmental challenges and associated societal changes, in particular in relation to air quality, energy waste, climate change, mobility, oceans and the Arctic Region.
 
 
 #### About
 
-The green investment scheme sets up the requirements for the trade in surplus assigned amount units on the international market Our Mission is Our goal is to build smart societies where digital, automated services help to build trust between different parties. The green investment scheme sets up the requirements for the trade in surplus assigned amount units on the international market. Everyone knows, that this is one of the most awful things you can do to our life and nature. But humanity needs clean water, air, electricity, woods and shelters. A cycle of escalation. As humanity grows, energy consumption does too. Nordic Energy & Co. realizes this issue and wants to resolve it!
+The Green (Ventures) investment scheme sets up the requirements for the trade in surplus assigned amount units on the international market Our Mission is Our goal is to build smart societies where digital, automated services help to build trust between different parties. The green investment scheme sets up the requirements for the trade in surplus assigned amount units on the international market. Everyone knows, that this is one of the most awful things you can do to our life and nature. But humanity needs clean water, air, electricity, woods and shelters. A cycle of escalation. As humanity grows, energy consumption does too. Nordic Energy & Co. realizes this issue and wants to resolve it!
 
 
 
