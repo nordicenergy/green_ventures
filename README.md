@@ -3,7 +3,7 @@
  <a href="https://greenventures.nordicenergy.co/">
  <img height="200px" src="images/logo/greenventures-logo.png">
 </a>
-  <br> <h1 align="center">Fundraising Platform</h1>
+  <br> <h1 align="center">FUNDRAISING</h1>
   <br> <h4 align="center">Climate Change Solutions Provider & Most Outstanding In Green Investments By Nordic Energy.</h4>
 <p align="center">
  <a href="https://greenventures.app/">Official Website</a> |
@@ -31,9 +31,9 @@ When you give to Our platform, you know your donation is making a difference. Wh
 
 When you give to Our platform, you know your donation is making a difference. Whether you are supporting one of our Signature Programs or our carefully curated list of Gifts.
 
-#### Whitepaper
+#### Social Media Links
 
-https://greenventures.app/docs/whitepaper
+Medium: https://medium.com/@nordicenergy/green-ventures-fundraising-platform-4dfa5d467299
 
 **Notice** The site and platform solution are under development.
 
