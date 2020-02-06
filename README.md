@@ -12,9 +12,10 @@
   <a href="https://nordicenergy.io">Nordic Energy</a> |
   <a href="https://nordicenergy.app/buy">ICO</a>
 </p>
+</p>
 
 
-### Governance for the Environment and Society
+#### Governance for the Environment and Society
 
 On transformation processes arising in connection with environmental challenges and associated societal changes, in particular in relation to air quality, energy waste, climate change, mobility, oceans and the Arctic Region.
 
