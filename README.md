@@ -3,7 +3,7 @@
  <a href="https://greenventures.nordicenergy.co/">
  <img height="200px" src="images/logo/greenventures-logo.png">
 </a>
-  <br> <h2 align="center">FUNDRAISING PLATFORM - THE NEW ERA OF TRANSPARENT GIVING</h2>
+  <br> <h3 align="center">FUNDRAISING PLATFORM - THE NEW ERA OF TRANSPARENT GIVING</h3>
 <p align="center">
  <a href="https://greenventures.app/">Official Website</a> |
   <a href="https://nordicenergy.app/donate">Donate</a> |
